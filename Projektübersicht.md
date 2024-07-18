@@ -1,7 +1,17 @@
 # Projektübersicht: DigiMenu
 
+## Inhaltsverzeichnis
+1. [Projektziel](#projektziel)
+2. [Projektumfeld](#projektumfeld)
+3. [Projektführung](#projektführung)
+4. [Zeitplan](#zeitplan)
+5. [Ressourcen](#ressourcen)
+6. [Qualitätsmanagement](#qualitätsmanagement)
+7. [Überwachung und Kontrolle](#überwachung-und-kontrolle)
+8. [Abschluss und Auswertung](#abschluss-und-auswertung)
+
 ## Projektziel
-Modernisierung und Verbesserung des gastronomischen Erlebnisses durch Digitalisierung der Speisekarten. Ziel ist es, Restaurants und Cafés zu ermöglichen, ihre Menüs dynamisch zu aktualisieren, den Bestellprozess zu optimieren und eine direkte Verbindung zu ihren Kunden aufzubauen.
+Das Projekt DigiMenu zielt darauf ab, das gastronomische Erlebnis zu modernisieren und zu verbessern, indem die Speisekarten digitalisiert werden. Ziel ist es, Restaurants und Cafés zu ermöglichen, ihre Menüs dynamisch zu aktualisieren, den Bestellprozess zu optimieren und eine direkte Verbindung zu ihren Kunden aufzubauen.
 
 ## Projektumfeld
 - **Rahmenbedingungen:**
@@ -25,12 +35,16 @@ Modernisierung und Verbesserung des gastronomischen Erlebnisses durch Digitalisi
   - Kommunikation über Slack für schnelle Updates und Fragen.
 
 ## Zeitplan
-- **Projektphasen:**
-  - Phase 1: Konzeptentwicklung und Anforderungsanalyse (2 Monate)
-  - Phase 2: Design und Prototyping (3 Monate)
-  - Phase 3: Entwicklung und Implementierung (4 Monate)
-  - Phase 4: Testen und Einführung (1 Monat)
-  - Phase 5: Überwachung und Optimierung (laufend)
+- **Projektphasen und geplante Dauer in Stunden:**
+
+  | Phase                            | Geplante Dauer (Stunden) |
+  |----------------------------------|--------------------------|
+  | Konzeptentwicklung und Anforderungsanalyse | 160 |
+  | Design und Prototyping            | 240 |
+  | Entwicklung und Implementierung   | 320 |
+  | Testen und Einführung             | 80  |
+  | Überwachung und Optimierung       | Variabel (laufend)       |
+
 - **Zeitplan:**
   - Startdatum: [Datum]
   - Enddatum: [Datum]
