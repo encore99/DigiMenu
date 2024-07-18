@@ -62,6 +62,19 @@ Das Projekt DigiMenu zielt darauf ab, das gastronomische Erlebnis zu modernisier
   - Projektteam (Anzahl und Rollen).
   - Externe Berater oder Dienstleister für spezielle Aufgaben.
 
+## Zielplattformen
+- - Webanwendung für Restaurantpersonal und Kunden.
+  - Mobile App für Kunden zur Menüansicht und Bestellung.
+
+## Architekturdesign
+- - Mikrodienstarchitektur für Skalierbarkeit und Wartbarkeit.
+  - Frontend (Web und Mobile App) mit React.js und React Native.
+  - Backend mit Node.js und MongoDB für die Datenhaltung.
+
+## Datenbankentwicklung
+- - Entwurf und Implementierung einer robusten Datenbankstruktur.
+  - Integration von Datenbank-Management-Systemen zur Speicherung von Speiseinformationen, Bestellungen und Kundenprofilen.
+
 ## Qualitätsmanagement
 - **Qualitätsziele:**
   - Benutzerfreundliche Benutzeroberfläche, zuverlässige Systemleistung.
