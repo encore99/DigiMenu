@@ -1,4 +1,4 @@
-# DigiMenu Wiki
+# DigiMenu
 
 ## Inhaltsverzeichnis
 1. [Einleitung](#einleitung)
